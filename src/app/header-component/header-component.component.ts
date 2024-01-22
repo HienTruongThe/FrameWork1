@@ -14,7 +14,7 @@ export class HeaderComponentComponent {
     {
       id: 1,
       title: "Home",
-      url: "home",
+      url: "/",
       parent: 0
     },
     {
